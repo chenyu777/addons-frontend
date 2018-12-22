@@ -1,0 +1,261 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.26.1",
+  "hash": "5c22f63c943c774530fc",
+  "publicPath": "",
+  "outputPath": "/home/travis/build/mozilla/addons-frontend/out6335",
+  "assetsByChunkName": {
+    "iframe": [
+      "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js",
+      "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js.map"
+    ],
+    "manager": [
+      "static/manager.edc17290d2108edd6443.bundle.js",
+      "static/manager.edc17290d2108edd6443.bundle.js.map"
+    ],
+    "runtime~iframe": [
+      "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js",
+      "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js.map"
+    ],
+    "runtime~manager": [
+      "static/runtime~manager.93c4e993677f851bc040.bundle.js",
+      "static/runtime~manager.93c4e993677f851bc040.bundle.js.map"
+    ],
+    "vendors~iframe": [
+      "static/vendors~iframe.ca53e29465d1040f54da.bundle.js",
+      "static/vendors~iframe.ca53e29465d1040f54da.bundle.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "name": "iframe.html",
+      "size": 2198,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "index.html",
+      "size": 730,
+      "chunks": [],
+      "chunkNames": []
+    },
+    {
+      "name": "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js",
+      "size": 550061,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "iframe"
+      ]
+    },
+    {
+      "name": "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js.map",
+      "size": 575667,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "iframe"
+      ]
+    },
+    {
+      "name": "static/manager.edc17290d2108edd6443.bundle.js",
+      "size": 1875771,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "manager"
+      ]
+    },
+    {
+      "name": "static/manager.edc17290d2108edd6443.bundle.js.map",
+      "size": 2251772,
+      "chunks": [
+        1
+      ],
+      "chunkNames": [
+        "manager"
+      ]
+    },
+    {
+      "name": "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js",
+      "size": 6279,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "runtime~iframe"
+      ]
+    },
+    {
+      "name": "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js.map",
+      "size": 6178,
+      "chunks": [
+        2
+      ],
+      "chunkNames": [
+        "runtime~iframe"
+      ]
+    },
+    {
+      "name": "static/runtime~manager.93c4e993677f851bc040.bundle.js",
+      "size": 6280,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "runtime~manager"
+      ]
+    },
+    {
+      "name": "static/runtime~manager.93c4e993677f851bc040.bundle.js.map",
+      "size": 6179,
+      "chunks": [
+        3
+      ],
+      "chunkNames": [
+        "runtime~manager"
+      ]
+    },
+    {
+      "name": "static/vendors~iframe.ca53e29465d1040f54da.bundle.js",
+      "size": 3849900,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "vendors~iframe"
+      ]
+    },
+    {
+      "name": "static/vendors~iframe.ca53e29465d1040f54da.bundle.js.map",
+      "size": 4477409,
+      "chunks": [
+        4
+      ],
+      "chunkNames": [
+        "vendors~iframe"
+      ]
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "iframe": {
+      "chunks": [
+        2,
+        4,
+        0
+      ],
+      "assets": [
+        "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js",
+        "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js.map",
+        "static/vendors~iframe.ca53e29465d1040f54da.bundle.js",
+        "static/vendors~iframe.ca53e29465d1040f54da.bundle.js.map",
+        "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js",
+        "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "manager": {
+      "chunks": [
+        3,
+        1
+      ],
+      "assets": [
+        "static/runtime~manager.93c4e993677f851bc040.bundle.js",
+        "static/runtime~manager.93c4e993677f851bc040.bundle.js.map",
+        "static/manager.edc17290d2108edd6443.bundle.js",
+        "static/manager.edc17290d2108edd6443.bundle.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "iframe": {
+      "chunks": [
+        2,
+        4,
+        0
+      ],
+      "assets": [
+        "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js",
+        "static/runtime~iframe.d1fe03475eedb2c43cdd.bundle.js.map",
+        "static/vendors~iframe.ca53e29465d1040f54da.bundle.js",
+        "static/vendors~iframe.ca53e29465d1040f54da.bundle.js.map",
+        "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js",
+        "static/iframe.ee7a5fc6d48bf7fe5c40.bundle.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "manager": {
+      "chunks": [
+        3,
+        1
+      ],
+      "assets": [
+        "static/runtime~manager.93c4e993677f851bc040.bundle.js",
+        "static/runtime~manager.93c4e993677f851bc040.bundle.js.map",
+        "static/manager.edc17290d2108edd6443.bundle.js",
+        "static/manager.edc17290d2108edd6443.bundle.js.map"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "children": [
+    {
+      "errors": [],
+      "warnings": [],
+      "publicPath": "",
+      "outputPath": "/home/travis/build/mozilla/addons-frontend/out6335",
+      "assetsByChunkName": {
+        "HtmlWebpackPlugin_0": "__child-HtmlWebpackPlugin_0"
+      },
+      "assets": [
+        {
+          "name": "__child-HtmlWebpackPlugin_0",
+          "size": 546457,
+          "chunks": [
+            0
+          ],
+          "chunkNames": [
+            "HtmlWebpackPlugin_0"
+          ]
+        }
+      ],
+      "filteredAssets": 0,
+      "entrypoints": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0": {
+          "chunks": [
+            0
+          ],
+          "assets": [
+            "__child-HtmlWebpackPlugin_0"
+          ],
+          "children": {},
+          "childAssets": {}
+        }
+      },
+      "children": [],
+      "name": "HtmlWebpackCompiler"
+    }
+  ]
+}
